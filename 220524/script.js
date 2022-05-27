@@ -36,13 +36,13 @@
 
 // //argument(인수): function을 실행하는 동안 어떤 정보를 function에 보낼 수 있는 방법.
 
-const player = {
-    name: "gogoo81",
-    sayHello: function (otherPersonsName) {
-        console.log("hello! " + otherPersonsName + " nice to meet you");
-    },
-}
+// const player = {
+//     name: "gogoo81",
+//     sayHello: function (otherPersonsName) {
+//         console.log("hello! " + otherPersonsName + " nice to meet you");
+//     },
+// }
 
-console.log(player.name);
-player.sayHello("googoo81");
-player.sayHello("plash")
+// console.log(player.name);
+// player.sayHello("googoo81");
+// player.sayHello("plash")
